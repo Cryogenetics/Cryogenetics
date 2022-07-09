@@ -4,6 +4,8 @@
 - 💼 I am currently looking for paid work.
 - About me:
 ```
+I am 19 years old, and I am currently attending a university working towards a Bachelors degree in Computer Science
+
 I have been coding since i was around 9 years old, so about 10 years.
 most of which was spent making APIs, Bots, and Webapps in Node.JS.
   

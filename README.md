@@ -1,7 +1,7 @@
 ### Welcome to my profile! 👋
 - 🔭 I’m currently working on Astro Anticheat and a new project called Ludic.
 - 🌱 I’m currently improving my react skills.
-- 💼 I am currently looking for paid work.
+- 💼 I am available for coding requests.
 - About me:
 ```
 I am 19 years old, and I am currently attending a university working towards a Bachelors degree in Computer Science

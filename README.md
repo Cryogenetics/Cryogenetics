@@ -1,6 +1,6 @@
 ### Welcome to my profile! 👋
 - 🔭 I’m currently working on Astro Anticheat and a new project called Ludic.
-- 🌱 I’m currently improving my react skills.
+- 🌱 I’m currently working on Rust projects
 - 💼 I am available for coding requests.
 - 💻 Projects: [@AstroAC](https://github.com/Astro-Anticheat), [@ludicapp](https://github.com/ludicapp), and several other small projects.
 - About me:

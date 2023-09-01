@@ -9,7 +9,8 @@ I am 20 years old, and I am currently attending a university working towards a B
 
 I have been coding since i was around 9 years old, so about 11 years.
 most of which was spent making APIs, Bots, and Webapps in Node.JS. (~8ish years)
-utilizing a MERN stack
+
+My main stack is Mongo Express Reactjs and Node, aka MERN
   
 I mostly code APIs, bots and Webapps. I like to do backend, but I am a full-stack developer most of the time.
 

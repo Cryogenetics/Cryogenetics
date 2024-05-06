@@ -6,7 +6,7 @@
 
 - About me:
 ```
-I am 20 years old, and I am currently attending a university working towards a Bachelors degree in Computer Science
+I am 21 years old, and I am currently attending a university working towards a Bachelors degree in Computer Science
 
 I have been coding since i was around 9 years old, so about 11 years.
 most of which was spent making APIs, Bots, and Webapps in Node.JS. (~8ish years)

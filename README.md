@@ -2,8 +2,8 @@
 - 🔭 I’m currently working on Astro Anticheat and a new project called Ludic.
 - 🌱 I’m currently working on a webtool to automatically import Mod Organizer 2 exports.
 - 💼 I am available for hire.
-- 💻 Projects: [@AstroAC](https://github.com/Astro-Anticheat), [@ludicapp](https://github.com/ludicapp), [@Stellar](https://github.com/Stellar-AntiVPN) and several other small projects ([MO2 CSV Importer](https://github.com/Cryogenetics/mo2-importer-web)).
-
+- 💻 Projects: [@ludicapp](https://github.com/ludicapp), [@Stellar](https://github.com/Stellar-AntiVPN) and several other small projects ([MO2 CSV Importer](https://github.com/Cryogenetics/mo2-importer-web)).
+Former Owner [@AstroAC](https://github.com/Astro-Anticheat)
 - About me:
 ```
 I am 21 years old, and I am currently attending a university working towards a Bachelors degree in Computer Science

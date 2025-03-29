@@ -15,5 +15,6 @@ My main stack is Mongo Express Reactjs and Node, aka MERN
   
 I mostly code APIs, bots and Webapps. I like to do backend, but I am a full-stack developer most of the time.
 
-I have worked with many languages, but Node.JS is the one I am the most fluent in.
+I have worked with many languages, but Node.JS is the one I am the most fluent in, utilizing typescript.
+
 ```

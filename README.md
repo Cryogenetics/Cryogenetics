@@ -1,7 +1,7 @@
 ### Welcome to my profile! 👋
 - 🔭 I'm currently working on a local communication service called LocalTalk
 - 🌱 I’m currently working on Stellar, an antivpn service
-- 💼 [I am available for work.](mailto:cryo@ghostin.me)
+- 💼 [I am available for work.](mailto:business@ghostin.me)
 - 💻 Projects: [@ludicapp](https://github.com/ludicapp), [@Stellar](https://github.com/Stellar-AntiVPN) and several other small projects ([MO2 CSV Importer](https://github.com/Cryogenetics/mo2-importer-web)).
 - Former Owner / Team Lead [@AstroAC](https://github.com/Astro-Anticheat)
 - About me:

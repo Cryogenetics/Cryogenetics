@@ -19,4 +19,5 @@ I have worked with many languages, but Node.JS is the one I am the most fluent i
 
 ```
 
-###### My commits are skewed because stellar is using my token in order to automatically update known VPN Providers.
+###### My commits are skewed because my automations in Stellar were using my github config, which I mistakenly thought I needed, and fixed recently
+###### Skewness is ~+27 commits daily from 3/25/24 - 3/29/25

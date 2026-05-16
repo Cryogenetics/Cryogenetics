@@ -6,7 +6,7 @@
 - Former Owner / Team Lead [@AstroAC](https://github.com/Astro-Anticheat)
 - About me:
 ```
-I am 22 years old, and I am currently attending a university working towards a Bachelors degree in Computer Science
+I am 23 years old, and I am currently attending a university working towards a Bachelors degree in Computer Science
 
 I have been coding since i was around 9 years old, so about 12 years.
 most of which was spent making APIs, Bots, and Webapps in Node.JS. (~8ish years)
@@ -19,5 +19,5 @@ I have worked with many languages, but Node.JS is the one I am the most fluent i
 
 ```
 
-###### My commits are skewed because my automations in Stellar were using my github config, which I mistakenly thought I needed, and fixed recently
+###### My commits are skewed because my automations in Stellar were using my github config, which I mistakenly thought I needed
 ###### Skewness is ~+27 commits daily from 3/25/24 - 3/29/25
